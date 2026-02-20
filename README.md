@@ -59,6 +59,8 @@ Your website will be live in a few minutes.
 * Add pricing section
 * Add Google Maps location
 * Add admin dashboard
+## Click below for live website
+https://happy-browse.lovable.app
 
 ## 👨‍💻 Author
 
